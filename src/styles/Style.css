@@ -39,7 +39,7 @@
 }
 
 .hero_text p {
-    opacity: 50%;
+    opacity: 51%;
     padding-bottom: 15px;
     line-height: 1.6;
 }
@@ -97,7 +97,7 @@
 }
 
 .cancel-button {
-    opacity: 50%;
+    opacity: 51%;
     background-color: #FFFFFF;
     border: none;
     transition: ease-in-out 0.5s;
@@ -150,6 +150,6 @@
 }
 
 .cancel-button:hover {
-    opacity: 100%;
+    opacity: 99%;
     transition: ease-in-out 0.5s;
 }

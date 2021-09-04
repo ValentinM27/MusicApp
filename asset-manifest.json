@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/MusicApp/static/css/main.baf6a0d0.chunk.css",
+    "main.js": "/MusicApp/static/js/main.f4f438aa.chunk.js",
+    "main.js.map": "/MusicApp/static/js/main.f4f438aa.chunk.js.map",
+    "runtime-main.js": "/MusicApp/static/js/runtime-main.673e9159.js",
+    "runtime-main.js.map": "/MusicApp/static/js/runtime-main.673e9159.js.map",
+    "static/js/2.4e3188fc.chunk.js": "/MusicApp/static/js/2.4e3188fc.chunk.js",
+    "static/js/2.4e3188fc.chunk.js.map": "/MusicApp/static/js/2.4e3188fc.chunk.js.map",
+    "static/js/3.ddfe9dca.chunk.js": "/MusicApp/static/js/3.ddfe9dca.chunk.js",
+    "static/js/3.ddfe9dca.chunk.js.map": "/MusicApp/static/js/3.ddfe9dca.chunk.js.map",
+    "index.html": "/MusicApp/index.html",
+    "static/css/main.baf6a0d0.chunk.css.map": "/MusicApp/static/css/main.baf6a0d0.chunk.css.map",
+    "static/js/2.4e3188fc.chunk.js.LICENSE.txt": "/MusicApp/static/js/2.4e3188fc.chunk.js.LICENSE.txt",
+    "static/media/icon-music.f20c7787.svg": "/MusicApp/static/media/icon-music.f20c7787.svg",
+    "static/media/illustration-hero.73032583.svg": "/MusicApp/static/media/illustration-hero.73032583.svg",
+    "static/media/pattern-background-desktop.5a0ab689.svg": "/MusicApp/static/media/pattern-background-desktop.5a0ab689.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.673e9159.js",
+    "static/js/2.4e3188fc.chunk.js",
+    "static/css/main.baf6a0d0.chunk.css",
+    "static/js/main.f4f438aa.chunk.js"
+  ]
+}

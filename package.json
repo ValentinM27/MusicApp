@@ -2,7 +2,7 @@
   "name": "musicapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ValentinM27.github.io/MusicApp/",
+  "homepage": "https://ValentinM27.github.io/MusicApp",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",

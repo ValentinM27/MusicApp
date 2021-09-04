@@ -1,0 +1,155 @@
+.html {
+    width: 75%;
+}
+
+.background_image {
+    position: relative;
+    width: 100%;
+    height: 50%;
+}
+
+.background_container {
+    position: relative;
+    margin: 5% auto;
+    background-color: #E0E7FF;
+    width: 80%;
+    height: 800px;
+    box-shadow:
+            0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+            0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+            0 12.5px 10px rgba(0, 0, 0, 0.06),
+            0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+            0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+            0 100px 80px rgba(0, 0, 0, 0.12);
+}
+
+.hero_text {
+    background-color: #FFFFFF;
+    display: block;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    top: 300px;
+    left: 0;
+    right: 0;
+    text-align: center;
+    width: 450px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.hero_text p {
+    opacity: 50%;
+    padding-bottom: 15px;
+    line-height: 1.6;
+}
+
+.hero-text-container {
+    margin: auto;
+    width: 80%;
+    padding: 15px 0 40px 0;
+}
+
+.hero_image {
+    display: block;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    left: 0;
+    right: 0;
+    text-align: center;
+    top: 10%;
+
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.hero_container {
+    text-align: center;
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+.button_container {
+    display: flex;
+    flex-direction: column;
+}
+
+.cancel-button, .payment-button {
+    font-weight: bold;
+    margin:5% 0 2.5% 0;
+}
+
+.payment-button {
+    padding: 15px 5% 15px 5%;
+    border: none;
+    background-color: #3829E2;
+    color: #FFFFFF;
+    border-radius: 15px;
+    box-shadow:
+        4px 2.8px 2.2px rgba(0, 0, 0, 0.034),
+        8px 6.7px 5.3px rgba(0, 0, 0, 0.048),
+        10px 12.5px 7px rgba(0, 0, 0, 0.06),
+        0 15px 8px rgba(0, 0, 0, 0.072);
+
+    transition: background-color 0.5s;
+}
+
+.cancel-button {
+    opacity: 50%;
+    background-color: #FFFFFF;
+    border: none;
+    transition: ease-in-out 0.5s;
+}
+
+.resume-container {
+    background-color: #f0f0f5;
+    text-align: center;
+    flex-direction: row;
+    display: flex;
+    border-radius: 15px;
+    height: 80px;
+}
+
+.resume-detail {
+    margin-top: 0px;
+}
+
+.resume-detail h2 {
+    font-size: 1em;
+}
+.resume-detail-link {
+    font-size: 14px;
+    font-weight: bold;
+    color: #3829E2;
+    margin-top: 7.80%;
+    margin-left: 110px;
+    transition: color 0.5s;
+}
+
+.resume-detail-image {
+    margin-top: 16px;
+    padding-right: 4%;
+    padding-left: 4%;
+    width: auto;
+    height: 50px;
+}
+
+/* active state */
+
+.resume-detail-link:hover {
+    color: #877df5;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
+.payment-button:hover {
+    background-color: #877df5;
+    transition: background-color 0.5s;
+}
+
+.cancel-button:hover {
+    opacity: 100%;
+    transition: ease-in-out 0.5s;
+}
